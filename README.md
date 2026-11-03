@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hola soy Diego Alejandro Soto Ortiz</p>
+<p data-importer="text" align="left">Hola soy Diego Soto </p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">Estudiate en Ingenieria en Tecnologias de la Informacion <br>Apasionado por la tecnología, la programación y el desarrollo de proyectos y levantador de pesas</p>
+<p data-importer="text" align="left"> IT <br>Apasionado por la tecnología, la programación y el desarrollo de proyectos y levantador de pesas</p>
 
 ###
 
